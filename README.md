@@ -1,6 +1,6 @@
 # JournalApp
 
-This project was generated with React JS 18.2.0, Redux and Firebase (backend and database). It registers notes with the title, description, and images. You need to create a user or sign in with a Google account.
+This project was generated with React JS 18.2.0, Redux, Firebase (backend and database) and Material UI. It registers notes with the title, description, and images. You need to create a user or sign in with a Google account.
 
 ## See a Demo
 
